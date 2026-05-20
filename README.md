@@ -23,7 +23,7 @@
 扩充从不同角度解决问题的方法。
 *Expanding methods to solve problems from different angles.*
 
-- **[design-driven-dev](https://github.com/Chartreuse310/design-driven-dev)** — 设计师的全栈之旅 · A designer's journey to full-stack（Astro）
+- **[design-driven-dev](https://github.com/Chartreuse310/design-driven-dev)** — 设计师的全栈之旅 · A designer's journey to full-stack（Astro）*[已归档 / Archived]*
 
 ### 🍀 Knowledge Management / 知识管理
 
