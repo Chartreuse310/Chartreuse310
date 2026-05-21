@@ -1,11 +1,15 @@
-<div align="center">
+
 
 # CTZ / 沙楚子 (Chartreuse310)
 
 **一个试图跑通全栈的设计师，一个研究中国建筑史的学生。**
 **A designer attempting to bridge the full-stack gap — and a student of Chinese architectural history.**
 
-</div>
+
+
+**Blog / 博客** · [chartreuse310.github.io/blog-ctz](https://chartreuse310.github.io/blog-ctz/)
+
+
 
 ---
 
@@ -41,9 +45,8 @@
 
 ---
 
-<div align="center">
+
 
 **Tech Stack / 技术栈**
 TypeScript · JavaScript · Vue · Electron · SQLite · Astro · Python · C# · C++ · OpenCascade
 
-</div>
