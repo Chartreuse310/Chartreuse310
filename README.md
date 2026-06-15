@@ -19,7 +19,6 @@
 *Understanding the logic of how the world works through architecture.*
 
 - **[CHBIM](https://github.com/Chartreuse310/chbim)** — 基于中国古代营造体系的 BIM 组织方法 · A BIM organization method based on ancient Chinese construction systems
-- **[RevitForge](https://github.com/Chartreuse310/RevitForge)** — Revit 操作方法索引 · An index vault for Revit operation methods
 - **[rime-ancient-arch](https://github.com/Chartreuse310/rime-ancient-arch)** — 中国古建筑术语词库 · Rime IME dictionary for ancient Chinese architecture terminology
 
 ### 🚮 Design / 设计
