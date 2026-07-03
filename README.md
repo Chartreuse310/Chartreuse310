@@ -2,8 +2,8 @@
 
 # CTZ / 沙楚子 (Chartreuse310)
 
-**一个试图跑通全栈的设计师，一个研究中国建筑史的学生。**
-**A designer attempting to bridge the full-stack gap — and a student of Chinese architectural history.**
+**一个喜欢瞎折腾的设计师。**
+**A designer who loves to tinker.**
 
 
 
