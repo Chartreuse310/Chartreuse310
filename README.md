@@ -10,8 +10,9 @@
 
 ### 公开项目
 
-- [rime-ancient-arch](https://github.com/Chartreuse310/rime-ancient-arch)：面向 Rime / 雾凇拼音的中国古建筑术语词库——初步提取了一些常见术语，暂停迭代。
 - [the-boxes](https://github.com/Chartreuse310/the-boxes)：本地优先、以 Markdown 保存数据的 todo 应用——目前基本功能已经完成，暂停迭代。
+- [web-summary](https://github.com/Chartreuse310/web-summary)：网页剪藏与 AI 摘要工具——基本功能已实现，目前暂停迭代。
+- [rime-ancient-arch](https://github.com/Chartreuse310/rime-ancient-arch)：面向 Rime / 雾凇拼音的中国古建筑术语词库——初步提取了一些常见术语，暂停迭代。
 
 ### 过往探索
 
