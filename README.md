@@ -1,6 +1,6 @@
 # CTZ / 沙楚子 (Chartreuse310)
 
-**一个研究型设计师。**  
+**研究型设计师。**  
 **A designer-researcher.**
 
 - 👾 [Blog](https://chartreuse310.github.io/blog-ctz-v3/) 一个喜欢瞎折腾的设计师 👾 不定期的分享
