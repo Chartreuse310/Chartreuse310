@@ -1,9 +1,9 @@
 # CTZ / 沙楚子 (Chartreuse310)
 
-**研究型设计师。**  
-**A designer-researcher.**
+**研究型设计师**  
+**A designer-researcher**
 
-- 👾 [Blog](https://chartreuse310.github.io/blog-ctz-v3/) 一个喜欢瞎折腾的设计师 👾 不定期的分享
+- 👾 [Blog CTZ](https://chartreuse310.github.io/blog-ctz-v4/) · 沙楚子的新新新新博客。记录创作、工具实践与日常思考，包括文章和闪念。
 
 ### 公开项目
 
@@ -14,5 +14,6 @@
 
 ### 过往探索
 
+- 博客旧版 · [v3](https://chartreuse310.github.io/blog-ctz-v3/) · [v2](https://chartreuse310.github.io/blog-ctz-v2/) · [v1](https://github.com/Chartreuse310/blog-ctz)
 - [沙楚子的存在证明](https://chartreuse310.github.io/ctz-bujo-share/)：公开日记与思考分享站。已暂停日常更新，保留过往记录与日记框架供参考。[源码与复用说明](https://github.com/Chartreuse310/ctz-bujo-share)
 - [CHBIM Prototype](https://github.com/Chartreuse310/chbim-prototype)：古建参数化建模的早期实验，已归档。
